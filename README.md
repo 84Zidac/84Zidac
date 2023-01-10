@@ -10,4 +10,4 @@
 - 📫 How to reach me: marcusgib23@gmail.com
 - ⚡ Fun fact: extension cords snap at -40 degrees.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=84Zidac)](https://github.com/84Zidac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=84Zidac)
