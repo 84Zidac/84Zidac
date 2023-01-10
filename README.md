@@ -1,7 +1,6 @@
 ### Hello 👋
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=84Zidac)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=84Zidac&show_icons=true&theme=dracula)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=84Zidac)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on multiple projects.
 - 🌱 I’m currently learning Python
