@@ -94,8 +94,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=84Zidac&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<p align="left
+> <a href='https://github.com/ryo-ma/github-pprifile-trophy'><img src='https://github-profile-trophy.vercel.app/?username=84ziac' alt='84zidac' /></a></p>
+          <br/>  
 
 
 ## Recent Blog Posts  
